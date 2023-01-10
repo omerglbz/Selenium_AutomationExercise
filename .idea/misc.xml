@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/LogoutUser/pom.xml" />
+        <option value="$PROJECT_DIR$/RegisterUserTestCase/pom.xml" />
+        <option value="$PROJECT_DIR$/RegisterUserWithExistingEmail/pom.xml" />
+        <option value="$PROJECT_DIR$/LoginUserWithIncorrectEmailAndPassword/pom.xml" />
+        <option value="$PROJECT_DIR$/LoginUserWithCorrectEmailAndPasswordTestCase/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_18" default="true" project-jdk-name="18" project-jdk-type="JavaSDK" />
+</project>
